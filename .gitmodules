@@ -1,0 +1,9 @@
+[submodule "domains"]
+	path = domains
+	url = https://github.com/specfocus/domains.git
+[submodule "locales"]
+	path = locales
+	url = https://github.com/specfocus/locales.git
+[submodule "machines"]
+	path = machines
+	url = https://github.com/specfocus/machines.git
