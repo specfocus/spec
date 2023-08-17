@@ -25,12 +25,6 @@
 [submodule "spec-quiz-ts-odata"]
 	path = spec-quiz-ts-odata
 	url = https://github.com/specfocus/spec-quiz-ts-odata.git
-[submodule "spec-mongo-ql"]
-	path = spec-mongo-ql
-	url = https://github.com/specfocus/spec-mongo-ql.git
-[submodule "spec-quiz-ts-mongodb"]
-	path = spec-quiz-ts-mongodb
-	url = https://github.com/specfocus/spec-quiz-ts-mongodb.git
 [submodule "spec-json-schema"]
 	path = spec-json-schema
 	url = https://github.com/specfocus/spec-json-schema.git
@@ -40,3 +34,6 @@
 [submodule "spec-quiz-ts-focus"]
 	path = spec-quiz-ts-focus
 	url = https://github.com/specfocus/spec-quiz-ts-focus.git
+[submodule "spec-mql"]
+	path = spec-mql
+	url = https://github.com/specfocus/spec-mql.git
