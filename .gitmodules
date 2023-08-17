@@ -37,3 +37,6 @@
 [submodule "spec-quiz-ts"]
 	path = spec-quiz-ts
 	url = https://github.com/specfocus/spec-quiz-ts.git
+[submodule "spec-quiz-ts-focus"]
+	path = spec-quiz-ts-focus
+	url = https://github.com/specfocus/spec-quiz-ts-focus.git
