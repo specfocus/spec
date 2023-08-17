@@ -7,3 +7,33 @@
 [submodule "machines"]
 	path = machines
 	url = https://github.com/specfocus/machines.git
+[submodule "spec-graphql"]
+	path = spec-graphql
+	url = https://github.com/specfocus/spec-graphql.git
+[submodule "spec-prisma"]
+	path = spec-prisma
+	url = https://github.com/specfocus/spec-prisma.git
+[submodule "spec-xstate-machines"]
+	path = spec-xstate-machines
+	url = https://github.com/specfocus/spec-xstate-machines.git
+[submodule "spec-type-ts"]
+	path = spec-type-ts
+	url = https://github.com/specfocus/spec-type-ts.git
+[submodule "spec-ioc-ts"]
+	path = spec-ioc-ts
+	url = https://github.com/specfocus/spec-ioc-ts.git
+[submodule "spec-quiz-ts-odata"]
+	path = spec-quiz-ts-odata
+	url = https://github.com/specfocus/spec-quiz-ts-odata.git
+[submodule "spec-mongo-ql"]
+	path = spec-mongo-ql
+	url = https://github.com/specfocus/spec-mongo-ql.git
+[submodule "spec-quiz-ts-mongodb"]
+	path = spec-quiz-ts-mongodb
+	url = https://github.com/specfocus/spec-quiz-ts-mongodb.git
+[submodule "spec-json-schema"]
+	path = spec-json-schema
+	url = https://github.com/specfocus/spec-json-schema.git
+[submodule "spec-quiz-ts"]
+	path = spec-quiz-ts
+	url = https://github.com/specfocus/spec-quiz-ts.git
