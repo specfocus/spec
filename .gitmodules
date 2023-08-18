@@ -16,9 +16,6 @@
 [submodule "spec-xstate-machines"]
 	path = spec-xstate-machines
 	url = https://github.com/specfocus/spec-xstate-machines.git
-[submodule "spec-type-ts"]
-	path = spec-type-ts
-	url = https://github.com/specfocus/spec-type-ts.git
 [submodule "spec-ioc-ts"]
 	path = spec-ioc-ts
 	url = https://github.com/specfocus/spec-ioc-ts.git
@@ -37,3 +34,15 @@
 [submodule "spec-mql"]
 	path = spec-mql
 	url = https://github.com/specfocus/spec-mql.git
+[submodule "spec-domains"]
+	path = spec-domains
+	url = https://github.com/specfocus/spec-domains.git
+[submodule "spec-fakes-ts"]
+	path = spec-fakes-ts
+	url = https://github.com/specfocus/spec-fakes-ts.git
+[submodule "spec-fakes-cs"]
+	path = spec-fakes-cs
+	url = https://github.com/specfocus/spec-fakes-cs.git
+[submodule "work-kit-ts"]
+	path = work-kit-ts
+	url = https://github.com/specfocus/work-kit-ts.git

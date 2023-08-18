@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./packages",
+      "paths": {
+        "@specfocus/cron/*": ["@specfocus/cron/src/*"],
+        "@specfocus/machine/*": ["@specfocus/machine/src/*"],
+        "@specfocus/ui/*": ["@specfocus/ui/src/*"],
+        "@specfocus/work-view/*": ["@specfocus/work-view/src/*"]
+      },
+      "composite": true,
+      "declaration": true,
+      "outDir": "./dist"
+    },
+    "references": [
+      { "path": "./packages/cron" },
+      { "path": "./packages/machine" },
+      { "path": "./packages/ui" },
+      { "path": "./packages/ux" },
+      { "path": "./packages/viz" }
+    ]
+  }
