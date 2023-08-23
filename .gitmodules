@@ -46,3 +46,12 @@
 [submodule "work-kit-ts"]
 	path = work-kit-ts
 	url = https://github.com/specfocus/work-kit-ts.git
+[submodule "csharp/spec-umbiliko-core-cs"]
+	path = csharp/spec-umbiliko-core-cs
+	url = https://github.com/specfocus/spec-umbiliko-core-cs.git
+[submodule "data/spec-sqlserver-bak"]
+	path = data/spec-sqlserver-bak
+	url = https://github.com/specfocus/spec-sqlserver-bak.git
+[submodule "node/packages/spec-dd-extract-ts"]
+	path = node/packages/spec-dd-extract-ts
+	url = https://github.com/specfocus/spec-dd-extract-ts.git
