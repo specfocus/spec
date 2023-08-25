@@ -55,3 +55,12 @@
 [submodule "node/packages/spec-dd-extract-ts"]
 	path = node/packages/spec-dd-extract-ts
 	url = https://github.com/specfocus/spec-dd-extract-ts.git
+[submodule "node/packages/spec-mssql-mongodb-ts"]
+	path = node/packages/spec-mssql-mongodb-ts
+	url = https://github.com/specfocus/spec-mssql-mongodb-ts.git
+[submodule "node/packages/spec-ddic-ts"]
+	path = node/packages/spec-ddic-ts
+	url = https://github.com/specfocus/spec-ddic-ts.git
+[submodule "node/apps/play-ddic-next"]
+	path = node/apps/play-ddic-next
+	url = https://github.com/specfocus/play-ddic-next.git
