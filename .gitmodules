@@ -13,9 +13,6 @@
 [submodule "machines"]
 	path = machines
 	url = https://github.com/specfocus/machines.git
-[submodule "node/apps/play-ddic-next"]
-	path = node/apps/play-ddic-next
-	url = https://github.com/specfocus/play-ddic-next.git
 [submodule "node/packages/eslint-config-custom"]
 	path = node/packages/eslint-config-custom
 	url = https://github.com/specfocus/eslint-config-custom.git
@@ -85,3 +82,6 @@
 [submodule "work-kit-ts"]
 	path = work-kit-ts
 	url = https://github.com/specfocus/work-kit-ts.git
+[submodule "node/apps/play-ddic-next"]
+	path = node/apps/play-ddic-next
+	url = https://github.com/specfocus/play-ddic-next.git
