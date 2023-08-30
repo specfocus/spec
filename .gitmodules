@@ -46,3 +46,21 @@
 [submodule "work-kit-ts"]
 	path = work-kit-ts
 	url = https://github.com/specfocus/work-kit-ts.git
+[submodule "node/packages/spec-fakes-ts"]
+	path = node/packages/spec-fakes-ts
+	url = https://github.com/specfocus/spec-fakes-ts.git
+[submodule "node/packages/logger"]
+	path = node/packages/logger
+	url = https://github.com/specfocus/logger.git
+[submodule "node/packages/tsconfig"]
+	path = node/packages/tsconfig
+	url = https://github.com/specfocus/tsconfig.git
+[submodule "node/packages/jest-presets"]
+	path = node/packages/jest-presets
+	url = https://github.com/specfocus/jest-presets.git
+[submodule "node/packages/eslint-config-custom"]
+	path = node/packages/eslint-config-custom
+	url = https://github.com/specfocus/eslint-config-custom.git
+[submodule "node/packages/eslint-config-custom-server"]
+	path = node/packages/eslint-config-custom-server
+	url = https://github.com/specfocus/eslint-config-custom-server.git
