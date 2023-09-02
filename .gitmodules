@@ -46,3 +46,9 @@
 [submodule "node/packages/spec-mql-ts"]
 	path = node/packages/spec-mql-ts
 	url = git@github.com:specfocus/spec-mql-ts.git
+[submodule "node/packages/spec-ql-ts"]
+	path = node/packages/spec-ql-ts
+	url = git@github.com:specfocus/spec-ql-ts.git
+[submodule "node/packages/spec-types-ts"]
+	path = node/packages/spec-types-ts
+	url = git@github.com:specfocus/spec-types-ts.git
