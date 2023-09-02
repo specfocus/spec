@@ -4,12 +4,6 @@
 [submodule "data/spec-sqlserver-bak"]
 	path = data/spec-sqlserver-bak
 	url = https://github.com/specfocus/spec-sqlserver-bak.git
-[submodule "domains"]
-	path = domains
-	url = https://github.com/specfocus/domains.git
-[submodule "locales"]
-	path = locales
-	url = https://github.com/specfocus/locales.git
 [submodule "machines"]
 	path = machines
 	url = https://github.com/specfocus/machines.git
@@ -46,42 +40,6 @@
 [submodule "node/packages/tsconfig"]
 	path = node/packages/tsconfig
 	url = https://github.com/specfocus/tsconfig.git
-[submodule "spec-domains"]
-	path = spec-domains
-	url = https://github.com/specfocus/spec-domains.git
-[submodule "spec-fakes-cs"]
-	path = spec-fakes-cs
-	url = https://github.com/specfocus/spec-fakes-cs.git
-[submodule "spec-graphql"]
-	path = spec-graphql
-	url = https://github.com/specfocus/spec-graphql.git
-[submodule "spec-ioc-ts"]
-	path = spec-ioc-ts
-	url = https://github.com/specfocus/spec-ioc-ts.git
-[submodule "spec-json-schema"]
-	path = spec-json-schema
-	url = https://github.com/specfocus/spec-json-schema.git
-[submodule "spec-mql"]
-	path = spec-mql
-	url = https://github.com/specfocus/spec-mql.git
-[submodule "spec-prisma"]
-	path = spec-prisma
-	url = https://github.com/specfocus/spec-prisma.git
-[submodule "spec-quiz-ts"]
-	path = spec-quiz-ts
-	url = https://github.com/specfocus/spec-quiz-ts.git
-[submodule "spec-quiz-ts-focus"]
-	path = spec-quiz-ts-focus
-	url = https://github.com/specfocus/spec-quiz-ts-focus.git
-[submodule "spec-quiz-ts-odata"]
-	path = spec-quiz-ts-odata
-	url = https://github.com/specfocus/spec-quiz-ts-odata.git
-[submodule "spec-xstate-machines"]
-	path = spec-xstate-machines
-	url = https://github.com/specfocus/spec-xstate-machines.git
-[submodule "work-kit-ts"]
-	path = work-kit-ts
-	url = https://github.com/specfocus/work-kit-ts.git
 [submodule "node/apps/play-ddic-next"]
 	path = node/apps/play-ddic-next
 	url = https://github.com/specfocus/play-ddic-next.git
