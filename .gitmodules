@@ -19,36 +19,36 @@
 [submodule "node/packages/logger"]
 	path = node/packages/logger
 	url = https://github.com/specfocus/logger.git
-[submodule "node/packages/spec-dd-extract-ts"]
-	path = node/packages/spec-dd-extract-ts
-	url = https://github.com/specfocus/spec-dd-extract-ts.git
-[submodule "node/packages/spec-ddic-ts"]
-	path = node/packages/spec-ddic-ts
-	url = https://github.com/specfocus/spec-ddic-ts.git
-[submodule "node/packages/spec-fakes-ts"]
-	path = node/packages/spec-fakes-ts
-	url = https://github.com/specfocus/spec-fakes-ts.git
-[submodule "node/packages/spec-gql-to-mql-ts"]
-	path = node/packages/spec-gql-to-mql-ts
-	url = https://github.com/specfocus/spec-gql-to-mql-ts.git
-[submodule "node/packages/spec-gql-ts"]
-	path = node/packages/spec-gql-ts
-	url = https://github.com/specfocus/spec-gql-ts.git
-[submodule "node/packages/spec-mssql-mongodb-ts"]
-	path = node/packages/spec-mssql-mongodb-ts
-	url = https://github.com/specfocus/spec-mssql-mongodb-ts.git
 [submodule "node/packages/tsconfig"]
 	path = node/packages/tsconfig
 	url = https://github.com/specfocus/tsconfig.git
-[submodule "node/apps/play-ddic-next"]
-	path = node/apps/play-ddic-next
-	url = https://github.com/specfocus/play-ddic-next.git
-[submodule "node/packages/spec-mql-ts"]
-	path = node/packages/spec-mql-ts
-	url = git@github.com:specfocus/spec-mql-ts.git
-[submodule "node/packages/spec-ql-ts"]
-	path = node/packages/spec-ql-ts
-	url = git@github.com:specfocus/spec-ql-ts.git
-[submodule "node/packages/spec-types-ts"]
-	path = node/packages/spec-types-ts
+[submodule "node/packages/spec-types"]
+	path = node/packages/spec-types
 	url = git@github.com:specfocus/spec-types-ts.git
+[submodule "node/packages/spec-fakes"]
+	path = node/packages/spec-fakes
+	url = git@github.com:specfocus/spec-fakes-ts.git
+[submodule "node/packages/spec-ql"]
+	path = node/packages/spec-ql
+	url = git@github.com:specfocus/spec-ql-ts.git
+[submodule "node/packages/spec-gql"]
+	path = node/packages/spec-gql
+	url = git@github.com:specfocus/spec-gql-ts.git
+[submodule "node/packages/spec-mql"]
+	path = node/packages/spec-mql
+	url = git@github.com:specfocus/spec-mql-ts.git
+[submodule "node/packages/spec-sql"]
+	path = node/packages/spec-sql
+	url = git@github.com:specfocus/spec-sql-ts.git
+[submodule "node/packages/spec-dd"]
+	path = node/packages/spec-dd
+	url = git@github.com:specfocus/spec-dd-ts.git
+[submodule "node/apps/play-dd-next"]
+	path = node/apps/play-dd-next
+	url = git@github.com:specfocus/play-dd-next-ts.git
+[submodule "node/packages/work-kit"]
+	path = node/packages/work-kit
+	url = git@github.com:specfocus/work-kit-ts.git
+[submodule "node/packages/spec-mssql-mongodb"]
+	path = node/packages/spec-mssql-mongodb
+	url = git@github.com:specfocus/spec-mssql-mongodb-ts.git
